@@ -487,6 +487,7 @@ footer ul{
     }
     header{
         height: 100px;
+        padding: 3% 0 0 0;
     }
     .header-logo{
         width: 30%;
