@@ -262,7 +262,7 @@ header{
 }
 .display-item:hover{
     text-decoration: underline;
-    .display-img-1{
+    .display-img{
         opacity: 50%;
     }
 }
