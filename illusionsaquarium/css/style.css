@@ -541,8 +541,8 @@ footer ul{
         width: 25.5%;
         margin: 10% auto 0;
     }
-    .display-img-1,.display-img-2,.display-img-3,.display-img-4,.display-img-5,.display-img-6{
-        width: 220px;
+    .display-img{
+        width: 200px;
         height: 155px;
     }
     .access{
