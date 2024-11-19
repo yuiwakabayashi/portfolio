@@ -279,7 +279,7 @@ header{
 .shape-access{
     background-color: #E8F4FE;
 }
-.shape-access .shape-fill {
+.shape-access .shape-fill{
     fill: #FFFFFF;
 }
 .access{
@@ -325,7 +325,7 @@ header{
 .shape-footer{
     background-color: #294DB0;
 }
-.shape-footer .shape-fill {
+.shape-footer .shape-fill{
     fill: #E8F4FE;
 }
 .shape-footer-1{
@@ -454,13 +454,13 @@ footer ul{
 .shape-display-page{
     background-color: #50B0E8;
 }
-.shape-display-page .shape-fill {
+.shape-display-page .shape-fill{
     fill: #FFF;
 }
 .shape-display-page-bottom{
     background-color: #FFF;
 }
-.shape-display-page-bottom .shape-fill {
+.shape-display-page-bottom .shape-fill{
     fill: #50B0E8;
 }
 .Notice-title h4{
