@@ -1,5 +1,5 @@
 const glot = new Glottologist();
-glot.import("/js/lang.json").then(() => {
+glot.import("lang.json").then(() => {
     glot.render();
 })
 const zh = document.getElementById('zh');
