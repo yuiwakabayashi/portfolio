@@ -1,6 +1,4 @@
 # portfolio
-
-# Overview
 ポートフォリオ用にまとめたコードです。
 
 # Author
